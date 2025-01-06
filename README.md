@@ -1,2 +1,3 @@
 # Dikr
-![Dikr](https://github.com/user-attachments/assets/6b20fad8-1d56-4d5a-a2ea-d31215217ef8)
+
+![dikr](https://github.com/user-attachments/assets/ba50e523-9a73-4f3b-a3ed-5ebd664d0063)
